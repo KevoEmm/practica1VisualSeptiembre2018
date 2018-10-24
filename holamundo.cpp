@@ -3,7 +3,8 @@ using namespace std;
 
 main()
 {
-	cout<<"Hola mundo";
+	cout<<"Hola mundo"<<endl;
+	cout<<"Adios"<<endl;
 }
 
-//Nely Hernández García... Hola :D
+//Zahid Y. Ramirez Gonzalez 

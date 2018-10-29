@@ -6,7 +6,7 @@ main()
 	cout<<"Hola mundo"<<endl;
 	cout<<"Adios"<<endl;
 }
-
+//Emanuelle Bautista Hernandez n.n
 //Nely Hernández García :D
 //Zahid Y. Ramirez Gonzalez 
 /*isaac alejandro sanchez sanchez
